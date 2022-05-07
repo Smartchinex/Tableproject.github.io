@@ -1,0 +1,35 @@
+table, th, td {
+    border:1px solid red;
+  }
+  th,td{
+    padding: 20px;
+    width: 200px;
+  
+  }
+  .can{
+    background-color: palevioletred;
+    color: #333;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: left;
+    font-size: 25px;
+  }
+  th{
+    color: black;
+    background-color: blueviolet;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 30px;
+  }
+  td{
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
+    background-color: aquamarine;
+  }
